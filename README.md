@@ -6,6 +6,7 @@ The idea is to provide what is necessary to create a super 8 digital cartridge, 
 
 # How it start?
 I found some 35 mm cameras in my parents' old room with which I started shooting. Subsequently, I found two super 8 cameras in a flea market (for free), I looked at similar projects on the internet but I didn't find anything really complete. I decided to do my part to revive these cameras instead of keeping them shut down, given the monetary cost of real super 8 tapes and their development.
+
 ![CanonCamera](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/canonCamera.jpg)
 
 # Ispired by
