@@ -34,8 +34,11 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 - it's a tiny power bank!
 
 # In the future 
-- 35 mm cartdrige to convert 35mm camera to digital
 - shutter synch
+- wireless microphone
+
+# Future project
+- 35 mm cartdrige to convert 35mm camera to digital
 
 # Todo
 - [x] complete the product list
