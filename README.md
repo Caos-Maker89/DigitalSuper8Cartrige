@@ -40,7 +40,7 @@ The idea is to provide what is necessary to create a super 8 digital cartridge, 
 - [ ] make a tutorial of how to build it
 - [ ] make a tutorial of how to programm it
 - [ ] make istruction of how to use it
-- [ ] create a Etsy / Ebay insertion where sell the complete product
+- [ ] create a Etsy / Ebay insertion where sell the complete product avoiding the build phase for newbye with raspberry and DIY
 
 # Product List
 #todo
