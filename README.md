@@ -48,4 +48,5 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 - [ ] create a Etsy / Ebay insertion where sell the complete product avoiding the build phase for newbye with raspberry and DIY
 
 # Product List
+The list is on Amazon just for better organization, but you can buy where you want. The same product exist in aliexpress and ebay.
 [Amazon Product List](https://www.amazon.it/hz/wishlist/ls/3WLFAU62Y95Z?ref_=wl_share)
