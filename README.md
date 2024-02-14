@@ -3,8 +3,8 @@ This repo contains a project to create a digital super 8 cartridge, compatible w
 The idea is to provide what is necessary to create a super 8 digital cartridge, to obtain videos with the same retro style, reviving real easily recoverable super 8 cameras.
 
 # Ispired by
-[Digital super 8 repo] (https://github.com/Codaea/DigitalSuper8)
-[Digital super 8 youtube video] (https://www.youtube.com/watch?v=Dq85ZsAZxso)
+[Digital super 8 repo](https://github.com/Codaea/DigitalSuper8)
+[Digital super 8 youtube video](https://www.youtube.com/watch?v=Dq85ZsAZxso)
 
 # Scope
 - Give a precise tutorial for who want to create a super8 digital cartrige
