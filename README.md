@@ -1,3 +1,5 @@
+![Logo](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/logo.png)
+
 # DigitalSuper8Cartrige
 This repo contains a project to create a digital super 8 cartridge, compatible with most super 8 cameras, inspired by other abandoned projects and improved.
 The idea is to provide what is necessary to create a super 8 digital cartridge, to obtain videos with the same retro style, reviving real easily recoverable super 8 cameras.
