@@ -38,7 +38,7 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 - shutter synch
 
 # Todo
-- [ ] complete the product list
+- [ x ] complete the product list
 - [ ] create a 3D stl file with the shape off the super 8 where fill tech component
 - [ ] build the first (hardware) prototype
 - [ ] programming to obtain a video when the rasp be on
