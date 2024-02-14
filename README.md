@@ -2,12 +2,12 @@
 This repo contains a project to create a digital super 8 cartridge, compatible with most super 8 cameras, inspired by other abandoned projects and improved.
 The idea is to provide what is necessary to create a super 8 digital cartridge, to obtain videos with the same retro style, reviving real easily recoverable super 8 cameras.
 
-![Logo](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/logo.png)
+![Logo](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/images/logo.png)
 
 # How it start?
 I found some 35 mm cameras in my parents' old room with which I started shooting. Subsequently, I found two super 8 cameras in a flea market (for free), I looked at similar projects on the internet but I didn't find anything really complete. I decided to do my part to revive these cameras instead of keeping them shut down, given the monetary cost of real super 8 tapes and their development.
 
-![CanonCamera](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/canonCamera.jpg)
+![CanonCamera](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/images/canonCamera.jpg)
 
 # Ispired by
 [Digital super 8 repo](https://github.com/Codaea/DigitalSuper8)
