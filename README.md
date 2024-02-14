@@ -12,6 +12,7 @@ The idea is to provide what is necessary to create a super 8 digital cartridge, 
 # Scope
 - Give a precise tutorial for who want to create a super8 digital cartrige
 - Improve the previous project including new features
+- Give a final product for who want to directly buy it instead of build it
 
 # Key Functions
 - record always OR auto start recorded, based on a IR motion sensor that check the movement of the actual camera
