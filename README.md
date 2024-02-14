@@ -4,6 +4,9 @@
 This repo contains a project to create a digital super 8 cartridge, compatible with most super 8 cameras, inspired by other abandoned projects and improved.
 The idea is to provide what is necessary to create a super 8 digital cartridge, to obtain videos with the same retro style, reviving real easily recoverable super 8 cameras.
 
+# How it start?
+I found some 35 mm cameras in my parents' old room with which I started shooting. Subsequently, I found two super 8 cameras in a flea market (for free), I looked at similar projects on the internet but I didn't find anything really complete. I decided to do my part to revive these cameras instead of keeping them shut down, given the monetary cost of real super 8 tapes and their development.
+
 # Ispired by
 [Digital super 8 repo](https://github.com/Codaea/DigitalSuper8)
 
@@ -29,7 +32,8 @@ The idea is to provide what is necessary to create a super 8 digital cartridge, 
 - it's a tiny power bank!
 
 # In the future 
-#todo
+- 35 mm cartdrige to convert 35mm camera to digital
+- shutter synch
 
 # Todo
 - [ ] complete the product list
