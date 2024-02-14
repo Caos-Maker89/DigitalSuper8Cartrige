@@ -4,6 +4,7 @@ The idea is to provide what is necessary to create a super 8 digital cartridge, 
 
 # Ispired by
 [Digital super 8 repo](https://github.com/Codaea/DigitalSuper8)
+
 [Digital super 8 youtube video](https://www.youtube.com/watch?v=Dq85ZsAZxso)
 
 # Scope
