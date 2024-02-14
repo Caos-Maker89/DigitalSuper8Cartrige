@@ -29,7 +29,7 @@ The idea is to provide what is necessary to create a super 8 digital cartridge, 
 - it's a tiny power bank!
 
 # In the future 
-- selector for 24/18/slow motion fps 
+#todo
 
 # Todo
 - [ ] complete the product list
