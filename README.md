@@ -19,7 +19,7 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 - Improve the previous project including new features
 - Give a final product for who want to directly buy it instead of build it
 
-# Key Functions
+# Key Functions and features
 - record always OR auto start recorded, based on a IR motion sensor that check the movement of the actual camera
 - button with release to switch between color - b&w - sephia
 - button with release to switch between slow motion / 18 / 24 fps
