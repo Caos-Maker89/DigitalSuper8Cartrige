@@ -46,8 +46,10 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 - [ ] programming to use the motion sensor 
 - [ ] make a tutorial of how to build it
 - [ ] make a tutorial of how to programm it
-- [ ] make istruction of how to use it
+- [ ] make istruction of how to use it 
+- [ ] make a printable pdf of how to use it
 - [ ] create a Etsy / Ebay insertion where sell the complete product avoiding the build phase for newbye with raspberry and DIY
+- [ ] move the istruction to github wiki
 
 # Product List
 The list is on Amazon just for better organization, but you can buy where you want. The same product exist in aliexpress and ebay.
