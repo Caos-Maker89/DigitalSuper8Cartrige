@@ -1,11 +1,10 @@
 # DigitalSuper8Cartrige
-This repo contains a project to create a digital super 8 cartridge, compatible with most super 8 cameras, inspired by other abandoned projects and improved.
-The idea is to provide what is necessary to create a super 8 digital cartridge, to obtain videos with the same retro style, reviving real easily recoverable super 8 cameras.
+This repository contains a project aimed at creating a digital Super 8 cartridge compatible with most Super 8 cameras. It draws inspiration from other abandoned projects while incorporating improvements. The objective is to provide the necessary components to create a digital Super 8 cartridge, enabling users to capture videos with a retro style, thereby reviving easily recoverable Super 8 cameras.
 
 ![Logo](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/images/logo.png)
 
-# How it start?
-I found some 35 mm cameras in my parents' old room with which I started shooting. Subsequently, I found two super 8 cameras in a flea market (for free), I looked at similar projects on the internet but I didn't find anything really complete. I decided to do my part to revive these cameras instead of keeping them shut down, given the monetary cost of real super 8 tapes and their development.
+# How it started
+I stumbled upon some 35mm cameras in my parents' old room, which sparked my interest in photography. Later, I discovered two Super 8 cameras at a flea market (for free). While exploring similar projects online, I found none that were comprehensive. Therefore, I decided to contribute to the revival of these cameras rather than leaving them dormant, especially considering the cost of real Super 8 tapes and their development.
 
 ![CanonCamera](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/images/canonCamera.jpg)
 
@@ -15,57 +14,57 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 [Digital super 8 youtube video](https://www.youtube.com/watch?v=Dq85ZsAZxso)
 
 # Scope
-- Give a precise tutorial for who want to create a super8 digital cartrige
-- Improve the previous project including new features
-- Give a final product for who want to directly buy it instead of build it
+- Provide a detailed tutorial for creating a Super 8 digital cartridge.
+- Enhance the previous project by incorporating new features.
+- Offer a final product for those interested in purchasing rather than building it themselves.
 
 # Key Functions and features
-- record always OR auto start recorded, based on a IR motion sensor that check the movement of the actual camera
-- button with release to switch between color - b&w - sephia
-- button with release to switch between slow motion / 18 / 24 fps
-- button without release to switch between record always or record by motion sensor
-- play a sound with the buzzer when the record start and stop when the cartrige is on motion sensore mode
-- button with release to turn it on and off
-- display that show the actual setting 
+- Record continuously or automatically start recording based on an IR motion sensor that detects the camera's movement.
+- Button with release to switch between color, black & white, and sepia modes.
+- Button with release to switch between slow motion, 18, or 24 fps.
+- Button without release to toggle between continuous recording and motion sensor-triggered recording.
+- Buzzer emits a sound when recording starts and stops in motion sensor mode.
+- Button with release for power on/off.
+- Display indicates the current settings.
 
 # Other features
-- easy to insert and extract it from the camera
-- easy to extract the video files to the computer
-- it's a tiny power bank!
+- Easy insertion and removal from the camera.
+- Simple extraction of video files to a computer.
+- Functions as a tiny power bank.
 
-# Tier
+# Tiers
 I have an idea to make 3 different version of the camera:
 - *lite*
     - no display
-    - no fps selection (default 24)
+    - Default FPS (24)
     - no color switch 
 - *medium*
     - no display
-    - fps selection with buzz
-    - color switch with buzz
+    - FPS selection with buzzer feedback
+    - Color switch with buzzer feedback
 - *ultra*
-    - display with some info
+    - Display with information
     - color switch with display info
     - fps selection with display info
     - white balance selection with display info
     - exposure settings
 
-# Problem and solution (if founded)
+# Problems and solutions (if found)
 
 | Problem | Solution |
 | ------- | ------- |
-| Ir movement can be triggered when the cartdrige is put into the camera and removed | put the "armed" button in a position easy reachable before remove and after insert the cartrige. Make different version with different on of button position |
+| IR movement may trigger when the cartridge is inserted or removed from the camera. | Place the "armed" button in a easily reachable position before removing and after inserting the cartridge. Create different versions with varied button positions. |
 
 # Future features 
 - shutter synch
 - wireless microphone
 
-# Future project
+# Future projects
 - 35 mm cartdrige to convert 35mm camera to digital
 
 # Button List 
 - on/off
-- armed / record (depends of motion sensor on off)
+- armed / record (depends of motion sensor state)
 - motion sensor on / off 
 - fps selector
 - color selector
@@ -73,7 +72,7 @@ I have an idea to make 3 different version of the camera:
 # Development Board 
 [Trello](https://trello.com/b/D6Kr3EAe/super8digitalcartdrige)
 
-# Todo
+# To-do
 - [x] complete the product list
 - [ ] create a 3D stl file with the shape off the super 8 where fill tech component
 - [ ] build the first (hardware) prototype
@@ -87,5 +86,5 @@ I have an idea to make 3 different version of the camera:
 - [ ] move the istruction to github wiki
 
 # Product List
-The list is on Amazon just for better organization, but you can buy where you want. The same product exist in aliexpress and ebay.
+The list is on Amazon for better organization, but you can purchase from other platforms like AliExpress and eBay.
 [Amazon Product List](https://www.amazon.it/hz/wishlist/ls/3WLFAU62Y95Z?ref_=wl_share)
