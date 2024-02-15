@@ -48,6 +48,10 @@ I have an idea to make 3 different version of the camera:
     - color switch with display info
     - fps selection with display info
 
+# Problem and solution (if founded)
+
+| Ir movement can be triggered when the cartdrige is put into the camera and removed  | put the switch on/off in a position easy reachable before remove and after insert the cartrige. Make different version with different on of button position |
+
 # Future features 
 - shutter synch
 - wireless microphone
