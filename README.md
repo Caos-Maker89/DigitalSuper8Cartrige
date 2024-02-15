@@ -61,6 +61,13 @@ I have an idea to make 3 different version of the camera:
 # Future project
 - 35 mm cartdrige to convert 35mm camera to digital
 
+# Button List 
+- on/off
+- armed / not armed
+- motion sensor on / off 
+- fps selector
+- color selector
+
 # Todo
 - [x] complete the product list
 - [ ] create a 3D stl file with the shape off the super 8 where fill tech component
