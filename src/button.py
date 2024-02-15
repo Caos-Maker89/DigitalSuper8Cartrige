@@ -1,0 +1,2 @@
+def button():
+    return True
