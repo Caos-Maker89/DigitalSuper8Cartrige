@@ -74,9 +74,8 @@ I have an idea to make 3 different version of the camera:
 - [x] complete the product list
 - [ ] create a 3D stl file with the shape off the super 8 where fill tech component
 - [ ] build the first (hardware) prototype
-- [ ] programming to obtain a video when the rasp be on
-- [ ] programming to switch between b&w / color / sephia with a button
-- [ ] programming to use the motion sensor 
+- [ ] write task for the first tier on the trello board
+- [ ] programming [(see the trello board)](https://trello.com/b/D6Kr3EAe/super8digitalcartdrige)
 - [ ] make a tutorial of how to build it
 - [ ] make a tutorial of how to programm it
 - [ ] make istruction of how to use it 
