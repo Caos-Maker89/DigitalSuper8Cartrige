@@ -8,7 +8,7 @@ I stumbled upon some 35mm cameras in my parents' old room, which sparked my inte
 
 ![CanonCamera](https://github.com/Caos-Maker89/DigitalSuper8Cartrige/blob/main/images/canonCamera.jpg)
 
-# Ispired by
+# Inspired by
 [Digital super 8 repo](https://github.com/Codaea/DigitalSuper8)
 
 [Digital super 8 youtube video](https://www.youtube.com/watch?v=Dq85ZsAZxso)
