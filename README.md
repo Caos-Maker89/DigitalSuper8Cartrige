@@ -65,7 +65,7 @@ I have an idea to make 3 different version of the camera:
 
 # Button List 
 - on/off
-- armed / not armed
+- armed / record (depends of motion sensor on off)
 - motion sensor on / off 
 - fps selector
 - color selector
