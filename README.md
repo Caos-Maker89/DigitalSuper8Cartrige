@@ -35,15 +35,15 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 
 # Tier
 I have an idea to make 3 different version of the camera:
-- lite
+- *lite*
     - no display
     - no fps selection (default 24)
     - no color switch 
-- medium
+- *medium*
     - no display
     - fps selection with buzz
     - color switch with buzz
-- complete
+- *complete*
     - display with some info
     - color switch with display info
     - fps selection with display info
