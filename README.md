@@ -33,7 +33,22 @@ I found some 35 mm cameras in my parents' old room with which I started shooting
 - easy to extract the video files to the computer
 - it's a tiny power bank!
 
-# In the future 
+# Tier
+I have an idea to make 3 different version of the camera:
+- lite
+    - no display
+    - no fps selection (default 24)
+    - no color switch 
+- medium
+    - no display
+    - fps selection with buzz
+    - color switch with buzz
+- complete
+    - display with some info
+    - color switch with display info
+    - fps selection with display info
+
+# Future features 
 - shutter synch
 - wireless microphone
 
