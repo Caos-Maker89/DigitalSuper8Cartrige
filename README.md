@@ -70,6 +70,9 @@ I have an idea to make 3 different version of the camera:
 - fps selector
 - color selector
 
+# Development Board 
+[Trello](https://trello.com/b/D6Kr3EAe/super8digitalcartdrige)
+
 # Todo
 - [x] complete the product list
 - [ ] create a 3D stl file with the shape off the super 8 where fill tech component
