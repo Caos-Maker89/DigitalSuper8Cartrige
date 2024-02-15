@@ -43,10 +43,12 @@ I have an idea to make 3 different version of the camera:
     - no display
     - fps selection with buzz
     - color switch with buzz
-- *complete*
+- *ultra*
     - display with some info
     - color switch with display info
     - fps selection with display info
+    - white balance selection with display info
+    - exposure settings
 
 # Problem and solution (if founded)
 
