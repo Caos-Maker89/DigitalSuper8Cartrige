@@ -1,2 +1,2 @@
-picamera
 RPi.GPIO
+picamera
